@@ -3,18 +3,60 @@ import Link from "next/link";
 import Navbar from "./components/Navbar";
 
 export default function Home() {
-  const pureKanchi = [
-    { id: 1, name: "Bridal Crimson", image: "/saree_1.png", tagline: "Strength in every fold. Grace in every glance.", price: "₹18,500" },
-    { id: 2, name: "Emerald Temple", image: "/saree_2.png", tagline: "Prosperity in every prayer.", price: "₹16,800" },
-    { id: 7, name: "Magenta Korvai", image: "/saree_3.png", tagline: "Vibrance in every weave.", price: "₹19,500" },
-    { id: 11, name: "Violet Brocade", image: "/saree_4.png", tagline: "Tradition in every thread.", price: "₹21,000" },
-  ];
-  const semiKanchi = [
-    { id: 5, name: "Silver Zari", image: "/saree_5.png", tagline: "Purity in every drape.", price: "₹9,800" },
-    { id: 6, name: "Dual Tone Brown", image: "/saree_6.png", tagline: "Balance in every hue.", price: "₹11,200" },
-    { id: 9, name: "Mustard Checks", image: "/saree_7.png", tagline: "Rooted in culture.", price: "₹12,500" },
-    { id: 10, name: "Rose Pink", image: "/saree_8.png", tagline: "Cultivated in culture.", price: "₹10,800" },
-  ];
+const pureKanchi = [
+  {
+    id: 1,
+    name: "Bridal Crimson Red",
+    image: "/images/saree_1.jpeg",
+    tagline: "Strength in every fold. Grace in every glance.",
+    price: "₹12,000",
+  },
+  {
+    id: 2,
+    name: "Grand Royal Blue",
+    image: "/images/saree_2.jpeg",
+    tagline: "Woven with tradition. Worn with pride.",
+    price: "₹12,000",
+  },
+  {
+    id: 3,
+    name: "Grand Emerald Green",
+    image: "/images/saree_3.jpeg",
+    tagline: "Where heritage meets elegance.",
+    price: "₹12,000",
+  },
+];
+
+const semiKanchi = [
+  {
+    id: 4,
+    name: "Festive Rose Pink",
+    image: "/images/saree_4.jpeg",
+    tagline: "Draped in royalty. Born for celebrations.",
+    price: "₹5,000",
+  },
+  {
+    id: 5,
+    name: "Elegant Teal Green",
+    image: "/images/saree_5.jpeg",
+    tagline: "The art of silk. The soul of India.",
+    price: "₹5,000",
+  },
+  {
+    id: 6,
+    name: "Graceful Navy Blue",
+    image: "/images/saree_6.jpeg",
+    tagline: "Timeless weaves. Timeless beauty.",
+    price: "₹5,000",
+  },
+  {
+    id: 7,
+    name: "Vibrant Burnt Orange",
+    image: "/images/saree_7.jpeg",
+    tagline: "Crafted for queens. Made for moments.",
+    price: "₹5,000",
+  },
+];
 
   return (
     <div className="min-h-screen" style={{ background: "var(--cream)" }}>
