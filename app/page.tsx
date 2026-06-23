@@ -3,7 +3,7 @@ import Link from "next/link";
 import Navbar from "./components/Navbar";
 
 export default function Home() {
-[
+const pureKanchi = [
   {
     id: 1,
     name: "Radiant Yellow with Royal Purple Border",
@@ -25,6 +25,9 @@ export default function Home() {
     image: "/images/saree_3.jpeg",
     tagline: "Traditional emerald weaves crafted for timeless celebrations."
   },
+];
+
+const semiKanchi = [
   {
     id: 4,
     name: "Golden Mustard Aqua",
