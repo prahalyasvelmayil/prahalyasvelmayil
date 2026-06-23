@@ -7,7 +7,7 @@
     "type": "Bridal",
     "price": 12000,
     "image": "/images/saree_1.jpeg",
-    "tagline": "Strength in every fold. Grace in every glance.",
+    "tagline": "A bridal masterpiece woven for timeless celebrations.",
     "zari": "Gold Zari",
     "occasion": "Wedding"
   },
@@ -19,7 +19,7 @@
     "type": "Party Wear",
     "price": 12000,
     "image": "/images/saree_2.jpeg",
-    "tagline": "Woven with tradition. Worn with pride.",
+    "tagline": "Royal elegance crafted for unforgettable occasions.",
     "zari": "Gold Zari",
     "occasion": "Reception"
   },
@@ -31,7 +31,7 @@
     "type": "Festive",
     "price": 12000,
     "image": "/images/saree_3.jpeg",
-    "tagline": "Where heritage meets elegance.",
+    "tagline": "Rich emerald hues inspired by heritage and grace.",
     "zari": "Gold Zari",
     "occasion": "Engagement"
   },
@@ -43,7 +43,7 @@
     "type": "Bridal",
     "price": 5000,
     "image": "/images/saree_4.jpeg",
-    "tagline": "Draped in royalty. Born for celebrations.",
+    "tagline": "Bloom with elegance in every festive gathering.",
     "zari": "Silver Zari",
     "occasion": "Festival"
   },
@@ -55,7 +55,7 @@
     "type": "Party Wear",
     "price": 5000,
     "image": "/images/saree_5.jpeg",
-    "tagline": "The art of silk. The soul of India.",
+    "tagline": "A refreshing blend of sophistication and charm.",
     "zari": "Silver Zari",
     "occasion": "Party"
   },
@@ -67,7 +67,7 @@
     "type": "Festive",
     "price": 5000,
     "image": "/images/saree_6.jpeg",
-    "tagline": "Timeless weaves. Timeless beauty.",
+    "tagline": "Classic navy beauty designed for graceful moments.",
     "zari": "Silver Zari",
     "occasion": "Ceremony"
   },
@@ -79,7 +79,7 @@
     "type": "Casual",
     "price": 5000,
     "image": "/images/saree_7.jpeg",
-    "tagline": "Crafted for queens. Made for moments.",
+    "tagline": "Radiate warmth and confidence with every drape.",
     "zari": "Silver Zari",
     "occasion": "Festival"
   },
@@ -91,7 +91,7 @@
     "type": "Daily Wear",
     "price": 5000,
     "image": "/images/saree_8.jpeg",
-    "tagline": "A story told in every thread.",
+    "tagline": "Soft lavender tones for effortless elegance.",
     "zari": "Silver Zari",
     "occasion": "Party"
   },
