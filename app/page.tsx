@@ -7,23 +7,23 @@ const pureKanchi = [
   {
     id: 1,
     name: "Radiant Yellow with Royal Purple Border",
-    color: "Bright Yellow",
     image: "/images/saree_1.jpeg",
-    tagline: "A vibrant blend of sunshine yellow and regal purple elegance."
+    tagline: "A vibrant blend of sunshine yellow and regal purple elegance.",
+    price: "₹12,000",
   },
   {
     id: 2,
     name: "Ivory Gold Zari",
-    color: "Ivory White",
     image: "/images/saree_2.jpeg",
-    tagline: "Classic ivory silk adorned with rich golden zari artistry."
+    tagline: "Classic ivory silk adorned with rich golden zari artistry.",
+    price: "₹12,000",
   },
   {
     id: 3,
     name: "Emerald Green Heritage",
-    color: "Emerald Green",
     image: "/images/saree_3.jpeg",
-    tagline: "Traditional emerald weaves crafted for timeless celebrations."
+    tagline: "Traditional emerald weaves crafted for timeless celebrations.",
+    price: "₹12,000",
   },
 ];
 
@@ -31,30 +31,30 @@ const semiKanchi = [
   {
     id: 4,
     name: "Golden Mustard Aqua",
-    color: "Mustard Yellow",
     image: "/images/saree_4.jpeg",
-    tagline: "A refreshing combination of golden mustard and aqua elegance."
+    tagline: "A refreshing combination of golden mustard and aqua elegance.",
+    price: "₹5,000",
   },
   {
     id: 5,
     name: "Royal Blue Pink Korvai",
-    color: "Royal Blue",
     image: "/images/saree_5.jpeg",
-    tagline: "Bold royal blue accented with vibrant pink and gold zari."
+    tagline: "Bold royal blue accented with vibrant pink and gold zari.",
+    price: "₹5,000",
   },
   {
     id: 6,
     name: "Parrot Green Royal Border",
-    color: "Parrot Green",
     image: "/images/saree_6.jpeg",
-    tagline: "Fresh green tones enhanced with majestic blue-gold borders."
+    tagline: "Fresh green tones enhanced with majestic blue-gold borders.",
+    price: "₹5,000",
   },
   {
     id: 7,
     name: "Crimson Red Aqua Border",
-    color: "Crimson Red",
     image: "/images/saree_7.jpeg",
-    tagline: "Rich crimson silk paired with a graceful aqua contrast border."
+    tagline: "Rich crimson silk paired with a graceful aqua contrast border.",
+    price: "₹5,000",
   },
 ];
 
