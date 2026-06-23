@@ -3,58 +3,55 @@ import Link from "next/link";
 import Navbar from "./components/Navbar";
 
 export default function Home() {
-const pureKanchi = [
+[
   {
     id: 1,
-    name: "Bridal Crimson Red",
+    name: "Radiant Yellow with Royal Purple Border",
+    color: "Bright Yellow",
     image: "/images/saree_1.jpeg",
-    tagline: "A bridal masterpiece woven for timeless celebrations.",
-    price: "₹12,000",
+    tagline: "A vibrant blend of sunshine yellow and regal purple elegance."
   },
   {
     id: 2,
-    name: "Grand Royal Blue",
+    name: "Ivory Gold Zari",
+    color: "Ivory White",
     image: "/images/saree_2.jpeg",
-    tagline: "Royal elegance crafted for unforgettable occasions.",
-    price: "₹12,000",
+    tagline: "Classic ivory silk adorned with rich golden zari artistry."
   },
   {
     id: 3,
-    name: "Grand Emerald Green",
+    name: "Emerald Green Heritage",
+    color: "Emerald Green",
     image: "/images/saree_3.jpeg",
-    tagline: "Rich emerald hues inspired by heritage and grace.",
-    price: "₹12,000",
+    tagline: "Traditional emerald weaves crafted for timeless celebrations."
   },
-];
-
-const semiKanchi = [
   {
     id: 4,
-    name: "Festive Rose Pink",
+    name: "Golden Mustard Aqua",
+    color: "Mustard Yellow",
     image: "/images/saree_4.jpeg",
-    tagline: "Bloom with elegance in every festive gathering.",
-    price: "₹5,000",
+    tagline: "A refreshing combination of golden mustard and aqua elegance."
   },
   {
     id: 5,
-    name: "Elegant Teal Green",
+    name: "Royal Blue Pink Korvai",
+    color: "Royal Blue",
     image: "/images/saree_5.jpeg",
-    tagline: "A refreshing blend of sophistication and charm.",
-    price: "₹5,000",
+    tagline: "Bold royal blue accented with vibrant pink and gold zari."
   },
   {
     id: 6,
-    name: "Graceful Navy Blue",
+    name: "Parrot Green Royal Border",
+    color: "Parrot Green",
     image: "/images/saree_6.jpeg",
-    tagline: "Classic navy beauty designed for graceful moments.",
-    price: "₹5,000",
+    tagline: "Fresh green tones enhanced with majestic blue-gold borders."
   },
   {
     id: 7,
-    name: "Vibrant Burnt Orange",
+    name: "Crimson Red Aqua Border",
+    color: "Crimson Red",
     image: "/images/saree_7.jpeg",
-    tagline: "Radiate warmth and confidence with every drape.",
-    price: "₹5,000",
+    tagline: "Rich crimson silk paired with a graceful aqua contrast border."
   },
 ];
 
