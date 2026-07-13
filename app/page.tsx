@@ -6,23 +6,23 @@ export default function Home() {
 const pureKanchi = [
   {
     id: 1,
-    name: "Bridal Crimson Red",
+    name: "Radiant Yellow with Royal Purple Border",
     image: "/images/saree_1.jpeg",
-    tagline: "Strength in every fold. Grace in every glance.",
+    tagline: "A vibrant blend of sunshine yellow and regal purple elegance.",
     price: "₹12,000",
   },
   {
     id: 2,
-    name: "Grand Royal Blue",
+    name: "Ivory Gold Zari",
     image: "/images/saree_2.jpeg",
-    tagline: "Woven with tradition. Worn with pride.",
+    tagline: "Classic ivory silk adorned with rich golden zari artistry.",
     price: "₹12,000",
   },
   {
     id: 3,
-    name: "Grand Emerald Green",
+    name: "Emerald Green Heritage",
     image: "/images/saree_3.jpeg",
-    tagline: "Where heritage meets elegance.",
+    tagline: "Traditional emerald weaves crafted for timeless celebrations.",
     price: "₹12,000",
   },
 ];
@@ -30,30 +30,30 @@ const pureKanchi = [
 const semiKanchi = [
   {
     id: 4,
-    name: "Festive Rose Pink",
+    name: "Golden Mustard Aqua",
     image: "/images/saree_4.jpeg",
-    tagline: "Draped in royalty. Born for celebrations.",
+    tagline: "A refreshing combination of golden mustard and aqua elegance.",
     price: "₹5,000",
   },
   {
     id: 5,
-    name: "Elegant Teal Green",
+    name: "Royal Blue Pink Korvai",
     image: "/images/saree_5.jpeg",
-    tagline: "The art of silk. The soul of India.",
+    tagline: "Bold royal blue accented with vibrant pink and gold zari.",
     price: "₹5,000",
   },
   {
     id: 6,
-    name: "Graceful Navy Blue",
+    name: "Parrot Green Royal Border",
     image: "/images/saree_6.jpeg",
-    tagline: "Timeless weaves. Timeless beauty.",
+    tagline: "Fresh green tones enhanced with majestic blue-gold borders.",
     price: "₹5,000",
   },
   {
     id: 7,
-    name: "Vibrant Burnt Orange",
+    name: "Crimson Red Aqua Border",
     image: "/images/saree_7.jpeg",
-    tagline: "Crafted for queens. Made for moments.",
+    tagline: "Rich crimson silk paired with a graceful aqua contrast border.",
     price: "₹5,000",
   },
 ];
